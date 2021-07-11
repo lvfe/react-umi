@@ -3,7 +3,7 @@
     "plugins": {
         "ignore":{
             "ignoreCase": true,
-            "fileList": ["README.md"]
+            "fileList": ["README.xmd"]
         },
         "unittest": false
     }
