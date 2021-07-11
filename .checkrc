@@ -1,0 +1,10 @@
+{
+    "target": ["^test"], 
+    "plugins": {
+        "ignore":{
+            "ignoreCase": true,
+            "fileList": ["README.md"]
+        },
+        "unittest": false
+    }
+}
